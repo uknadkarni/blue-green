@@ -1,0 +1,6 @@
+---
+applications:
+- name: blue 
+  memory: 512M
+  instances: 1 
+  route-path: demo-time 

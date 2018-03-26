@@ -1,0 +1,37 @@
+html, body, h1, h2 {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%
+}
+h1 {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 110px;
+    font-weight: 100;
+    text-align: center;
+    padding: 50px;
+    color: #008080;
+}
+h2 {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: 100;
+    text-align: center;
+    padding: 0 0 0 0;
+    color: #000000;
+}
+h3 {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 0 0 0;
+    /* this is blue */
+    /* color: #42b0f4; */
+    /* this is for green */
+    color: #458B00
+}
+.a1 {
+    padding: 30px 0 50px 0;
+}
